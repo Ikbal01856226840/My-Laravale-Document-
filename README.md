@@ -252,11 +252,11 @@ root@hamko-ict-vm-01:~# sudo apt install phpmyadmin php-mbstring php-zip php-gd 
 
 ================================================ Reference Link ============================
 
-https://laravel.com/docs/11.x/deployment
-https://www.linuxcapable.com/how-to-install-php-8-3-on-ubuntu-linux/
-https://dev.to/kenfai/laravel-artisan-cache-commands-explained-41e1
-https://www.linuxcapable.com/how-to-configure-php-fpm-on-ubuntu-linux/
-https://phoenixnap.com/kb/install-phpmyadmin-on-centos-8    
+<br>https://laravel.com/docs/11.x/deployment </br>
+<br>https://www.linuxcapable.com/how-to-install-php-8-3-on-ubuntu-linux/ </br>
+<br>https://dev.to/kenfai/laravel-artisan-cache-commands-explained-41e1 </br>
+<br>https://www.linuxcapable.com/how-to-configure-php-fpm-on-ubuntu-linux/ </br>
+<br>https://phoenixnap.com/kb/install-phpmyadmin-on-centos-8     </br>
 
 
 
